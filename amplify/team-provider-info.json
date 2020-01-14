@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gqlimages-dev-141545-authRole",
+            "UnauthRoleArn": "arn:aws:iam::723455457584:role/amplify-gqlimages-dev-141545-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::723455457584:role/amplify-gqlimages-dev-141545-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-gqlimages-dev-141545-deployment",
+            "UnauthRoleName": "amplify-gqlimages-dev-141545-unauthRole",
+            "StackName": "amplify-gqlimages-dev-141545",
+            "StackId": "arn:aws:cloudformation:eu-west-2:723455457584:stack/amplify-gqlimages-dev-141545/31ced7b0-360f-11ea-8738-021679f87d94",
+            "AmplifyAppId": "d2pvf7no7783c8"
+        },
+        "categories": {
+            "auth": {
+                "gqlimages210d083f": {}
+            }
+        }
+    }
+}
